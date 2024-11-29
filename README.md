@@ -8,4 +8,5 @@
 - 🖱️ Intuitive interface and user-friendly design  
 
 ## 🎥 Demo Video  
-[![Directory Navigation Bar Video]()
+[![Directory Navigation Bar Video](https://github.com/user-attachments/assets/e365a7af-022e-48c5-856c-a1d8f72f48e2)](https://github.com/user-attachments/assets/e365a7af-022e-48c5-856c-a1d8f72f48e2)
+
